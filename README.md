@@ -4,7 +4,7 @@ Python implementation of A* Search with Manhattan Distance and Misplaced Tiles a
 
 ## Installation
 
-Run the .ipynb file in Jupyter Notebook, COLAB or any other platform.
+Run the .ipynb file in Jupyter Notebook, Google Colab or any other platform.
 
 ## Usage
 
